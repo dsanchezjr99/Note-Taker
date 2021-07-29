@@ -13,22 +13,22 @@ Allows the User to Take Notes on whatever they'd like to
 * Testing
 * Questions
 
-* Installation
+# Installation
 To Install you need to first clone the code from Github, then install Heroku on your system to deploy the page or you could do it through github pages as well 
 
-* Purpose Of Project
+# Purpose Of Project
 The purpose of this project is to have a site where you can take important notes
 
-* Licenses
+# Licenses
 N/A
 
-* Contributors
+# Contributors
 To contribute to this project please reach out to me via email which will be located below in the Question section below
 
-* Testing
+# Testing
 N/A
 
-* Questions
+# Questions
 If you have any questions or comments about this project please reach out to me with the contact info listed below 
 
 Email: [Dsanchezjr99@gmail.com]
